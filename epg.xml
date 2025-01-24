@@ -1,0 +1,2325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="9c40ce94b4">
+    <display-name>Punta del Este (URY) - Dublu : Huertas D.P.C./Huertas D.P.A. vs I.Carou/H.Dellien - 07:25 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="c3926629a8">
+    <display-name>NBA : Atlanta Hawks vs Toronto Raptors - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="00d1418d3a">
+    <display-name>Carioca Superbet - Serie A - Taca Guanabara : Vasco da Gama vs Madureira - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="697e80dbe2">
+    <display-name>LNB : Quimsa vs Platense - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="5df670fbdf">
+    <display-name>Carioca Superbet - Serie A - Taca Guanabara : Portuguesa RJ vs Fluminense RJ - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="6b81d0f569">
+    <display-name>Primera Division - Apertura : Newell's Old Boys vs Independiente Rivadavia - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="5e8962b667">
+    <display-name>Primera Division - Apertura : Defensa y Justicia vs Banfield - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="7a09bced56">
+    <display-name>Primera Division - Apertura : CA Lanus vs Deportivo Riestra - 07:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9db87c4a4f">
+    <display-name>Boca Raton (SUA) : Meisha Kendall vs Woseley - Natsuho Arakawa - 07:35 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="a3c44ea07d">
+    <display-name>NBA : Oklahoma City Thunder vs Dallas Mavericks - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="ff9ad31c62">
+    <display-name>LLA - Clausura : Jujuy Basquet vs Comunicaciones - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="52a34d06c2">
+    <display-name>LNB : Ciclista Olimpico vs Penarol Mar del Plata - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="7aa3333561">
+    <display-name>NHL : Minnesota Wild vs Utah - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="db2e946d68">
+    <display-name>NHL : St. Louis Blues vs Vegas Golden Knights - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="976c4a035a">
+    <display-name>Dublu Mixt : J.Smith/K.Birrell vs J.Peers/O.Gadecki - 08:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="61134397fc">
+    <display-name>Boca Raton (SUA) : William Hsieh vs Freddie Ridout - 08:05 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="da3f01504a">
+    <display-name>Super Smash (F) : Canterbury Magicians (F) vs Wellington Blaze (F) - 08:10 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="2f0099acc9">
+    <display-name>NBA : Milwaukee Bucks vs Miami Heat - 08:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="29aa9ef7b1">
+    <display-name>NBA : Denver Nuggets vs Sacramento Kings - 09:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="ff76c8efb6">
+    <display-name>NHL : Calgary Flames vs Buffalo Sabres - 09:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="a5efda3333">
+    <display-name>NHL : Edmonton Oilers vs Vancouver Canucks - 09:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="853abf7471">
+    <display-name>Primera Division - Clausura : Cartagines vs San Carlos - 09:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="5670380eaa">
+    <display-name>Newport Beach (SUA) : Tricia Mar vs Veronica Miroshnichenko - 09:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="287960a4e5">
+    <display-name>NBA : Golden State Warriors vs Chicago Bulls - 10:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="3319f209e2">
+    <display-name>NHL : Seattle Kraken vs Washington Capitals - 10:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="01985ca9db">
+    <display-name>NHL : Anaheim Ducks vs Pittsburgh Penguins - 10:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="0e6a4e9dbe">
+    <display-name>NBA : Los Angeles Lakers vs Boston Celtics - 10:00 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="c7654358f4">
+    <display-name>NHL : San Jose Sharks vs Nashville Predators - 10:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="a297f90403">
+    <display-name>NBA : Los Angeles Clippers vs Washington - 10:30 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="fd632ef50f">
+    <display-name>Australian Open : Novak Djokovic vs Alexander Zverev - 10:45 PM EST - (01/23/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="229e02efbb">
+    <display-name>Super Smash : Canterbury Kings vs Wellington Firebirds - 11:55 PM EST - (01/23/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="d2b1d88628">
+    <display-name>DubaI (EAU) : Izabela Heinzova vs Denise Hrdinkova - 12:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="d3dfcdf0bb">
+    <display-name>DubaI (EAU) : Grete Gull vs Eva Busaad - 12:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="86e993581d">
+    <display-name>DubaI (EAU) : Xenia Bandurowska vs Mirjana Jovanovic - 12:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="b6ec52c8ae">
+    <display-name>DubaI (EAU) : Ioana Teodora Sava vs Nao Phang Ziyi - 01:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="460b5f8554">
+    <display-name>NBL : New Zealand Breakers vs Brisbane Bullets - 01:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="0ddda03a1d">
+    <display-name>DubaI (EAU) : Polina Bakhmutkina vs Evgeniya Burdina - 02:20 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="2bcd3d2fd0">
+    <display-name>DubaI (EAU) : Noa Krznaric vs Laura Rahnel - 02:20 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="51711d8733">
+    <display-name>Olomouc (CEH) : Razvan Baiant vs Dominik Recek - 02:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="add3ad892d">
+    <display-name>Olomouc (CEH) : Adam Jurajda vs Karol Filar - 02:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="0f2a9434f0">
+    <display-name>Blagoevgrad (BGR) : Viktoria Lackova vs Beatris Spasova - 03:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="06c6ec2a6f">
+    <display-name>Indonesia Masters (F) : Tomoka Miyazaki vs Ratchanok Intanon - 03:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="81e392305f">
+    <display-name>Australian Open : Jannik Sinner vs Ben Shelton - 03:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="b10caa6381">
+    <display-name>NBL : Sydney Kings vs Adelaide 36ers - 03:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="675da37102">
+    <display-name>A-League : Melbourne Victory vs Sydney FC - 03:35 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="3dfb753a8c">
+    <display-name>Olomouc (CEH) : Jan Klimas vs Filip Paroulek - 03:45 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="c7d5fe6d8d">
+    <display-name>Alvor (POR) : Tomas Curras Abasolo vs Christos Keisidis - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="07f0eedd4a">
+    <display-name>Alvor (POR) : Max Benaim vs Fred Gil - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="0d175acb13">
+    <display-name>Cupa Commissioner : Phoenix Fuelmasters vs TNT Katropa - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="8e0653af5d">
+    <display-name>Alvor (POR) : Russell Henderson vs Jose Freitas - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="706e888151">
+    <display-name>Indonesia Masters : Kenta Nishimoto vs Jonatan Christie - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="16f9c3edfc">
+    <display-name>Alvor (POR) : Marshall Tutu vs Marcus Walters - 04:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="d24635ed0d">
+    <display-name>Blagoevgrad (BGR) : Patricia Georgiana Goina vs Lidia Encheva - 04:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="d6b11caa31">
+    <display-name>Indonesia Masters (F) : Yu Jin Sim vs Gregoria Mariska Tunjung - 04:50 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="452e1410d0">
+    <display-name>Indonesia Masters (F) : Thuy Linh Nguyen vs Shuo Yun Sung - 04:50 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="46cd112869">
+    <display-name>I-League : SC Bengaluru vs Sreenidi Deccan - 05:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="100c9a8a4c">
+    <display-name>Quimper (FRA) - Dublu : C.Denolly/K.Jacquet vs D.Stevenson/M.Willis - 05:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="ee3eb6ab37">
+    <display-name>Olomouc (CEH) : Peter Goldsteiner vs David Schwarc - 05:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="8df0db8a57">
+    <display-name>Olomouc (CEH) : Stepan Baum vs Juliusz Bienkiewicz - 05:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="e3e4c6adee">
+    <display-name>Alvor (POR) : Bas Bouwman vs Stefan Cooper - 05:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="f37a9b5437">
+    <display-name>Alvor (POR) : Sean Hodkin vs Stijn Paardekooper - 05:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="69269eb81b">
+    <display-name>Alvor (POR) : Ander Tarrio Ponte vs Carlos Garcia Mondelo - 05:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="69e472b87b">
+    <display-name>Oeiras 3 (POR) : Liam Draxl vs Nicolas Mejia - 05:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="b42f1aa390">
+    <display-name>Oeiras 3 (POR) : Alexis Galarneau vs Valentin Royer - 05:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="07f52ad44c">
+    <display-name>Blagoevgrad (BGR) : Abigail Amos vs Mirela Shkumbova - 05:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="c11317780a">
+    <display-name>Blagoevgrad (BGR) : Jovana Grujic vs Stefana Lazar - 05:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="5f3f9bdfe2">
+    <display-name>Indonesia Masters (F) : Putri Kusuma Wardani vs Wen Chi Hsu - 05:40 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="5b5743a81c">
+    <display-name>Super League : Hapoel Afula vs Hapoel Galil Elion - 06:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="64fe2a8a8d">
+    <display-name>Quimper (FRA) - Dublu : R.Cash/J.Tracy vs R.Matos/M.Zormann - 06:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="adf30b4914">
+    <display-name>Quimper (FRA) - Dublu : C.Denolly/K.Jacquet vs R.Arneodo/M.Guinard - 06:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="b0e568432a">
+    <display-name>Olomouc (CEH) : Josef Vagner vs Mikalai Haliak - 06:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="0c0c8f6a86">
+    <display-name>Cupa Commissioner : San Miguel Beermen vs Converge Fiberxers - 06:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="734a1ef0d5">
+    <display-name>Indonesia Masters : Li Shifeng vs Tzu Wei Wang - 06:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="0db85dc371">
+    <display-name>CBA : Fujian Sturgeons vs Beijing Ducks - 06:35 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="bfbcf50c07">
+    <display-name>CBA : Guangdong Southern Tigers vs Guangzhou Loong Lions - 06:35 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="749933954b">
+    <display-name>Oeiras 3 (POR) - Dublu : M.Middelkoop/D.Molchanov vs I.Liutarevich/M.Veldheer - 06:40 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="412d83b12a">
+    <display-name>Alvor (POR) : Marshall Tutu vs Jose Freitas - 07:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="4dcbe3eca8">
+    <display-name>Alvor (POR) : Marcus Walters vs Guilherme Valdoleiros - 07:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="6ff5dcd1f8">
+    <display-name>Alvor (POR) : Christos Keisidis vs Lars Wagenaar - 07:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="e41ec389f4">
+    <display-name>Thai League 1 : Port FC vs Ratchaburi Mitr Phol - 07:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="61094ab99c">
+    <display-name>Quimper (FRA) - Dublu : T.Arribage/V.V.Cornea vs M.Mcdonald/D.Vega Hernandez - 07:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="337f605f8b">
+    <display-name>Super League : Kuching City vs Kedah Darul Aman - 07:15 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f854c7d2e5">
+    <display-name>Indonesia Masters : Vitidsarn Kunlavut vs Jason Jia Heng Teh - 07:20 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="a204255d6c">
+    <display-name>Indonesia Masters : Yuqi Shi vs Hongyang Weng - 07:20 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="e6cd13ec0a">
+    <display-name>Oeiras 3 (POR) - Dublu : I.Cervantes/L.D.Martinez vs L.Draxl/C.Harper - 07:50 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="ccfb005bed">
+    <display-name>Oeiras 3 (POR) : Nikoloz Basilashvili vs Alexander Blockx - 07:55 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="b4107a3bf1">
+    <display-name>Amicale intercluburi : Vancouver Whitecaps vs Rakow Czestochowa - 08:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b5613ab72d">
+    <display-name>Quimper (FRA) : Vitaliy Sachko vs Matteo Martineau - 08:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="80f11ed570">
+    <display-name>Alvor (POR) : Stijn Paardekooper vs David Redondo Pereira - 08:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="d9545b2e96">
+    <display-name>Alvor (POR) : Tomas Luis vs Stefan Cooper - 08:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="acfc661071">
+    <display-name>I-League : Gokulam Kerala vs Inter Kashi - 08:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="36c8a7cef5">
+    <display-name>Super League : East Bengal vs Kerala Blasters - 09:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="c56477c8c0">
+    <display-name>TBL : Harem Spor vs Mamak Yeni - 09:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f8cf03267a">
+    <display-name>Oeiras 3 (POR) : Beibit Zhukayev vs Mark Lajal - 09:05 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="98148231f9">
+    <display-name>Quimper (FRA) : Sascha Wayenburg vs Laslo Djere - 09:10 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="94368aa31f">
+    <display-name>Turul invinsilor - Gr.2 : Japonia vs Bahrain - 09:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="ca488179d5">
+    <display-name>Runda Principala - Gr.4 : Argentina vs Capul Verde - 09:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="27135f23d8">
+    <display-name>Runda Principala - Gr.3 : Spania vs Portugalia - 09:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="4ffc55cd12">
+    <display-name>SuperLiga : Gloria Buzau vs Unirea Slobozia - 10:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="deac27453c">
+    <display-name>T20 League : Sunrisers Eastern Cape vs Joburg Super Kings - 10:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="e88e40bf13">
+    <display-name>Vero Beach (SUA) - Dublu : J.Belgraver/J.Gimbrere vs A.Bolsova/V.Strakhova - 11:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="7bf257781d">
+    <display-name>Quimper (FRA) - Dublu : S.Doumbia/F.Reboul vs U.Blanchet/M.Martineau - 11:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="ae77a69abe">
+    <display-name>Vero Beach (SUA) - Dublu : A.Zamarripa/M.Zamarripa vs H.Chang/S.Vickery - 11:00 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="d253c96445">
+    <display-name>Extraliga : Spisska Nova Ves vs Kosice - 11:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="3f1deb75be">
+    <display-name>Extraliga : Litvinov vs Ocelari Trinec - 11:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="002dbc8e1f">
+    <display-name>Extraliga : Plzen vs Olomouc - 11:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="c99c031597">
+    <display-name>Extraliga : Vlci Zilina vs Nove Zamky - 11:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="de7497f9ee">
+    <display-name>Korisliga - Turul invinsilor : Korikobrat vs Pyrinto Tampere - 11:30 AM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="581015a6c0">
+    <display-name>Quimper (FRA) : Titouan Droguet vs Pierre Hugues Herbert - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="c645966119">
+    <display-name>Runda Principala - Gr.3 : Suedia vs Brazilia - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="972d49d8bf">
+    <display-name>Extraliga : Mountfield vs Vítkovice - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="de2cd45bac">
+    <display-name>Extraliga : Bili Tygri Liberec vs Ceske Budejovice - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="4b45ab932b">
+    <display-name>PHL : Unia Oswiecim vs GKS Katowice - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="0aa9d73c38">
+    <display-name>Extraliga : Karlovy Vary vs Dynamo Pardubice - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="c75605116b">
+    <display-name>PHL : GKS Tychy vs GKS Jastrzebie - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="5b5be67998">
+    <display-name>PHL : Sanok vs Zagłębie Sosnowiec - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="84b6c83d1f">
+    <display-name>Extraliga : Liptovsky Mikulas vs Dukla Michalovce - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="7d4daa325e">
+    <display-name>HNL : Osijek vs Sibenik - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="4be2c48798">
+    <display-name>Extraliga : Zvolen vs Banska Bystrica - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="546e5a3375">
+    <display-name>Extraliga : Poprad vs Dukla Trencin - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="c95c40d712">
+    <display-name>Extraliga : Rytiri Kladno vs Mlada Boleslav - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="61303735be">
+    <display-name>Liga Estonia/Letonia : Ventspils vs TTU Korvpalliklubi - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="c14f2d3353">
+    <display-name>Extraliga : Nitra vs Slovan Bratislava - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="450a90c5b9">
+    <display-name>Extraliga : Kometa Brno vs Sparta Praga - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="39c6b68fca">
+    <display-name>Turul invinsilor - Gr.2 : SUA vs Cuba - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="c211088d76">
+    <display-name>Runda Principala - Gr.4 : Egipt vs Slovenia - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="46b029caa6">
+    <display-name>Vero Beach (SUA) - Dublu : L.Karatancheva/L.Zaar vs K.D.La Garza Valdez/E.Murphy - 12:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" />
+  </channel>
+  <channel id="925906ede0">
+    <display-name>Bundesliga 2 : Magdeburg vs Eintracht Braunschweig - 12:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9bd4052014">
+    <display-name>Bundesliga 2 : Greuther Furth vs Kaiserslautern - 12:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="1562818f4e">
+    <display-name>Division A : Apoel Nicosia vs AEL Limassol - 12:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="7fcb70c117">
+    <display-name>Metal Ligaen : Odense Bulldogs vs Sonderjyske - 01:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="7d60c22427">
+    <display-name>NBL - Vest : Jelgava vs Kandava/anzage - 01:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="815730ca67">
+    <display-name>Liga 2 : Academico Viseu vs Feirense - 01:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="7f8c24848f">
+    <display-name>Indiile de Vest (F) vs. Bangladesh (F) : Indiile de Vest (F) vs Bangladesh (F) - 01:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="cde2eab57d">
+    <display-name>SuperLiga : Dinamo Bucuresti vs U Cluj - 01:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b6d50e1d91">
+    <display-name>ICE League : TWK Innsbruck vs Pustertal Wolfe - 01:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="5dc2ee5b6c">
+    <display-name>ICE League : EC VSV vs Vienna Capitals - 01:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="1470dd6d69">
+    <display-name>ICE League : RB Salzburg vs KAC Klagenfurt - 01:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="a04ec3973e">
+    <display-name>Challenge League : Nyonnais vs Aarau - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f35b9691d6">
+    <display-name>DEL : Augsburger Panther vs Schwenninger Wild Wings - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="1c838e9e71">
+    <display-name>DEL : Lowen Frankfurt vs Nurnberg Ice Tigers - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="715f42b9bd">
+    <display-name>ICE League : Pioneers Vorarlberg vs Black Wings Linz - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="24f1c8ffbb">
+    <display-name>DEL : Dusseldorfer EG vs Kolner Haie - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="afd6d59461">
+    <display-name>Metal Ligaen : Rodovre Mighty Bulls vs Aalborg Pirates - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="c818f98ee1">
+    <display-name>DEL : Straubing Tigers vs Ingolstadt - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="5d759af82d">
+    <display-name>DEL : Adler Mannheim vs Grizzlys Wolfsburg - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="8c0c0dc598">
+    <display-name>Metal Ligaen : Frederikshavn White Hawks vs Rungsted Seier Capital - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="6cf946e550">
+    <display-name>Metal Ligaen : Herning Blue Fox vs Herlev Eagles - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="0e1903b550">
+    <display-name>Challenge League : Xamax vs Lausanne Ouchy - 01:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d056b0c824">
+    <display-name>ICE League : Asiago vs Fehervar AV19 - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="a1c46aacde">
+    <display-name>ICE League : Bolzano Foxes vs Graz 99ers - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="9aeb7d0a57">
+    <display-name>NLA : Kloten vs Ajoie - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="6e98b1619a">
+    <display-name>NLA : EV Zug vs Ambri Piotta - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="6978a6123e">
+    <display-name>NLA : ZSC Lions vs Biel Bienne - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="7f29a6bbc3">
+    <display-name>NLA : Fribourg Gotteron vs SC Langenau Tigers - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="f04ba40d8e">
+    <display-name>NLA : Lausanne vs Schlittschuh Club Bern - 01:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="f99d5c5faa">
+    <display-name>LNB Pro B : ALM Evreux vs UB Chartres - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="4083d51c98">
+    <display-name>Eerste Divisie : FC Eindhoven vs Cambuur - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="cece906e1d">
+    <display-name>Eerste Divisie : Den Bosch vs TOP Oss - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9a5fe68bc9">
+    <display-name>Challenger Pro League : RWDM vs Genk U23 - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="4a5272e9f7">
+    <display-name>Eerste Divisie : De Graafschap vs Emmen - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="de93903427">
+    <display-name>Euroliga : Alba Berlin vs Bayern Munchen - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="1f141ecdb8">
+    <display-name>Euroliga : ASVEL vs Barcelona - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="69f4f42054">
+    <display-name>LNB Pro B : Denain Voltaire vs Fos Provence - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="bb51aa82e8">
+    <display-name>LNB Pro A : Elan Chalon vs Limoges - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="0377a56f83">
+    <display-name>Challenger Pro League : Lokeren Temse vs K. Lierse S.K. - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="cec96da329">
+    <display-name>LNB Pro B : Roanne vs Antibes Sharks - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="53e6f50f4f">
+    <display-name>Eerste Divisie : Volendam vs Maastricht - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="4fe4413964">
+    <display-name>Eredivisie : Heracles Almelo vs Utrecht - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="05fb626367">
+    <display-name>Eerste Divisie : Roda Kerkrade vs Jong Utrecht - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f5629a687d">
+    <display-name>LNB Pro B : Caen Calvados vs EB Pau Orthez - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="af8d181eb4">
+    <display-name>Urvalsdeild : Thor Thorl vs IR Reykjavik - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="46834336da">
+    <display-name>LNB Pro B : Hermine Nantes vs Boulazac - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="db01287a51">
+    <display-name>Eerste Divisie : Vitesse Arnhem vs Dordrecht - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e65daf984f">
+    <display-name>LNB Pro B : Aix Maurienne Savoie vs SPO Rouen - 02:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="62dad0748a">
+    <display-name>Challenge League : Thun vs Vaduz - 02:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="7a692ad7e0">
+    <display-name>Euroliga : Olympiacos vs Fenerbahce - 02:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="7261c9c13d">
+    <display-name>Challenge League : Etoile Carouge vs Wil - 02:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e96d086fdf">
+    <display-name>Urvalsdeild : Keflavik vs Valur Reykjavik - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f414830dd9">
+    <display-name>Elite League : Glasgow Clan vs Fife Flyers - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="afd4a6edbd">
+    <display-name>SLB : Sheffield Sharks vs Cheshire Phoenix - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="9129eb8006">
+    <display-name>Runda Principala - Gr.4 : Croatia vs Islanda - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="42cc55ad3a">
+    <display-name>Elite League : Nottingham Panthers vs Guildford Flames - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="4e676b4e62">
+    <display-name>Bundesliga : Wolfsburg vs Holstein Kiel - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="69a3ebf76e">
+    <display-name>LaLiga 2 : Elche vs Eibar - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="4b3108ff4f">
+    <display-name>LNB Pro B : Vichy Clermont vs ASA - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="d4ae1941e3">
+    <display-name>LNB Pro B : Saint Chamond vs Poitiers 86 - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="9ca3109806">
+    <display-name>Serie B : Spezia vs Sassuolo - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="c758cb15dc">
+    <display-name>LNB Pro B : Hyeres Toulon vs Orleans Loiret - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="b07d9cfe1f">
+    <display-name>Runda Principala - Gr.3 : Chile vs Norvegia - 02:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" />
+  </channel>
+  <channel id="de079d3513">
+    <display-name>Pro League : Sint vs Truiden - Antwerp - 02:45 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b9fd4f6bc8">
+    <display-name>LaLiga : Las Palmas vs Osasuna - 03:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9755527920">
+    <display-name>Primera Division - Apertura : Barracas Central vs Racing Club - 03:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f3a79f8343">
+    <display-name>Championship : Sheffield United vs Hull City - 03:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="6a1d037cdc">
+    <display-name>Primeira Liga : Arouca vs Moreirense - 03:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="2eb499bfac">
+    <display-name>Primera Division - Apertura : Sportivo Trinidense vs Sportivo Ameliano - 04:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="2e0974d25c">
+    <display-name>Primera Division - Apertura : Metropolitanos vs Academia Puerto Cabello - 05:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="1c328eb9f1">
+    <display-name>Primera Division - Apertura : CA Independiente vs Sarmiento Junin - 05:15 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="2c66c6692d">
+    <display-name>Amicale intercluburi : Montevideo City Torque vs Independiente del Valle - 06:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b7015bdd64">
+    <display-name>NBA : Philadelphia vs Cleveland Cavaliers - 07:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="ebe6ba2fcf">
+    <display-name>NBA : Charlotte Hornets vs Portland Trail Blazers - 07:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="88d7c38159">
+    <display-name>Primera Division - Apertura : Monagas vs Deportivo La Guaira - 07:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="8e73934dd8">
+    <display-name>NHL : New York Islanders vs Philadelphia Flyers - 07:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="401ea19f36">
+    <display-name>NHL : Dallas Stars vs Vegas Golden Knights - 07:30 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="82c2a54bb1">
+    <display-name>NHL : Chicago Blackhawks vs Tampa Bay Lightning - 08:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="2c79eb7a4e">
+    <display-name>NBA : Memphis Grizzlies vs New Orleans Pelicans - 08:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="0164ff4ff1">
+    <display-name>NHL : Winnipeg Jets vs Utah - 08:00 PM EST - (01/24/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="6306e9e240">
+    <display-name>TBSL : Darussafaka vs Petkim Spor - 05:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="4d6197628a">
+    <display-name>Liga 2 : Felgueiras 1932 vs Alverca - 06:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="cc57886241">
+    <display-name>Bundesliga 2 : FC Koln vs Elversberg - 07:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="056e5558ee">
+    <display-name>Bundesliga 2 : Karlsruher vs Fortuna Dusseldorf - 07:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="94db6d3599">
+    <display-name>Bundesliga 2 : Schalke vs Nurnberg - 07:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="994d59ece1">
+    <display-name>TBSL : Karsiyaka vs Bahcesehir Koleji - 07:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="108fa556a0">
+    <display-name>SuperLiga : Poli Iasi vs Hermannstadt - 07:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="5edc3f03b9">
+    <display-name>Super League : FC Goa vs Chennaiyin - 09:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="6723bc96d9">
+    <display-name>Liga 3 - Gr.B : SC Lusitania vs Sporting Lisabona B - 09:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="4a934d08e9">
+    <display-name>HNL : Gorica vs Varazdin - 09:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="22646f8f61">
+    <display-name>Bundesliga : Borussia Dortmund vs Werder Bremen - 09:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b2c9019ca3">
+    <display-name>Bundesliga : Mainz vs Stuttgart - 09:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e23ccc9058">
+    <display-name>Bundesliga : Freiburg vs Bayern Munchen - 09:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="c8dda60d09">
+    <display-name>Bundesliga : RB Leipzig vs Bayer Leverkusen - 09:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="6dafe70d55">
+    <display-name>Bundesliga : Augsburg vs Heidenheim - 09:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9ae9a8f009">
+    <display-name>Liga 3 - Gr.B : SC 1º Dezembro vs Caldas SC - 10:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="9044f0acde">
+    <display-name>Liga 3 - Gr.B : Os Belenenses vs Academica Coimbra - 10:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="757d760b2b">
+    <display-name>Liga 3 - Gr.B : Atletico CP vs Oliveira Hospital - 10:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="cb75ba6e66">
+    <display-name>Liga 3 - Gr.B : Covilha vs UD Santarem - 10:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f9e15c9fef">
+    <display-name>TBSL : Bursaspor vs Manisa - 10:00 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="13f66652d1">
+    <display-name>Primeira Liga : Farense vs Rio Ave - 10:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d63b77c57e">
+    <display-name>Liga 2 : Maritimo vs Pacos Ferreira - 10:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="25a05b0230">
+    <display-name>Primeira Liga : Famalicao vs Estrela Amadora - 10:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="202a270fd6">
+    <display-name>HNL : Dinamo Zagreb vs Istra 1961 - 11:30 AM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="47326a4a41">
+    <display-name>Super League : Yverdon vs Servette - 12:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="25a005e280">
+    <display-name>Super League : Grasshopper vs Young Boys - 12:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="385978ca3a">
+    <display-name>LNB Pro A : Gravelines Dunkerque vs Stade Rochelais - 12:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="c02a3d127a">
+    <display-name>LNB Pro A : Le Portel vs Saint Quentin - 12:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="32374ae59e">
+    <display-name>Challenge League : Bellinzona vs Schaffhausen - 12:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="fb8192d271">
+    <display-name>TBSL : Besiktas vs Tofas - 12:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f251c9c27f">
+    <display-name>Bundesliga : Borussia Monchengladbach vs Bochum - 12:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="241cf79dd2">
+    <display-name>Primeira Liga : Casa Pia vs Benfica - 01:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="21a2c6a83b">
+    <display-name>SuperLiga : Rapid Bucuresti vs Universitatea Craiova - 01:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="2a198bf0ee">
+    <display-name>NLA : Ambri Piotta vs Lausanne - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="d6e90760d3">
+    <display-name>NLA : Schlittschuh Club Bern vs Rapperswil Jona Lakers - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="c25603277e">
+    <display-name>NLA : SC Langenau Tigers vs Davos - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="b201ce0ddd">
+    <display-name>NLA : Ajoie vs ZSC Lions - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="20f7ad6e8b">
+    <display-name>NLA : Biel Bienne vs Fribourg Gotteron - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="5b5d7f60cf">
+    <display-name>NLA : Geneve Servette vs EV Zug - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="96b9f68583">
+    <display-name>NLA : Lugano vs Kloten - 01:45 PM EST - (01/25/2025)</display-name>
+    <icon src="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" />
+  </channel>
+  <channel id="5346564892">
+    <display-name>LNB Pro A : Nancy vs Dijon - 02:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f6a653e2a8">
+    <display-name>Bundesliga 2 : Hertha Berlin vs Hamburger - 02:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="1975e6753a">
+    <display-name>Super League : Winterthur vs Lugano - 02:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e887b9cb61">
+    <display-name>Primeira Liga : Sporting Lisabona vs CD Nacional - 03:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="7fe554101c">
+    <display-name>Primera Division - Apertura : Estudiantes de Merida vs Carabobo - 04:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d2ecd8f915">
+    <display-name>Primera Division - Apertura : Universidad Central Venezuela vs Academia Anzoategui FC - 04:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d3cfe50380">
+    <display-name>Liga MX - Clausura : Cruz Azul vs Puebla - 06:00 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="c3926629a8">
+    <display-name>NBA : Atlanta Hawks vs Toronto Raptors - 07:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f8c9aa4dd2">
+    <display-name>NBA : Cleveland Cavaliers vs Houston Rockets - 07:30 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="22591b7e8e">
+    <display-name>Liga MX - Clausura : Santos Laguna vs Club America - 08:05 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="447409e108">
+    <display-name>Liga MX - Clausura : Monterrey vs Pachuca - 10:10 PM EST - (01/25/2025)</display-name>
+    <icon src="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9c40ce94b4">
+    <title>Punta del Este (URY) - Dublu : Huertas D.P.C./Huertas D.P.A. vs I.Carou/H.Dellien - 07:25 PM EST - (01/23/2025)</title>
+    <desc>04:25 PM PST / 05:25 PM MST / 07:25 PM EST
+12:25 AM GMT / 01:25 AM CET / 08:25 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c3926629a8">
+    <title>NBA : Atlanta Hawks vs Toronto Raptors - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="00d1418d3a">
+    <title>Carioca Superbet - Serie A - Taca Guanabara : Vasco da Gama vs Madureira - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="697e80dbe2">
+    <title>LNB : Quimsa vs Platense - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5df670fbdf">
+    <title>Carioca Superbet - Serie A - Taca Guanabara : Portuguesa RJ vs Fluminense RJ - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6b81d0f569">
+    <title>Primera Division - Apertura : Newell's Old Boys vs Independiente Rivadavia - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5e8962b667">
+    <title>Primera Division - Apertura : Defensa y Justicia vs Banfield - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7a09bced56">
+    <title>Primera Division - Apertura : CA Lanus vs Deportivo Riestra - 07:30 PM EST - (01/23/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9db87c4a4f">
+    <title>Boca Raton (SUA) : Meisha Kendall vs Woseley - Natsuho Arakawa - 07:35 PM EST - (01/23/2025)</title>
+    <desc>04:35 PM PST / 05:35 PM MST / 07:35 PM EST
+12:35 AM GMT / 01:35 AM CET / 08:35 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a3c44ea07d">
+    <title>NBA : Oklahoma City Thunder vs Dallas Mavericks - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ff9ad31c62">
+    <title>LLA - Clausura : Jujuy Basquet vs Comunicaciones - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="52a34d06c2">
+    <title>LNB : Ciclista Olimpico vs Penarol Mar del Plata - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7aa3333561">
+    <title>NHL : Minnesota Wild vs Utah - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="db2e946d68">
+    <title>NHL : St. Louis Blues vs Vegas Golden Knights - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="976c4a035a">
+    <title>Dublu Mixt : J.Smith/K.Birrell vs J.Peers/O.Gadecki - 08:00 PM EST - (01/23/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="61134397fc">
+    <title>Boca Raton (SUA) : William Hsieh vs Freddie Ridout - 08:05 PM EST - (01/23/2025)</title>
+    <desc>05:05 PM PST / 06:05 PM MST / 08:05 PM EST
+01:05 AM GMT / 02:05 AM CET / 09:05 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="da3f01504a">
+    <title>Super Smash (F) : Canterbury Magicians (F) vs Wellington Blaze (F) - 08:10 PM EST - (01/23/2025)</title>
+    <desc>05:10 PM PST / 06:10 PM MST / 08:10 PM EST
+01:10 AM GMT / 02:10 AM CET / 09:10 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2f0099acc9">
+    <title>NBA : Milwaukee Bucks vs Miami Heat - 08:30 PM EST - (01/23/2025)</title>
+    <desc>05:30 PM PST / 06:30 PM MST / 08:30 PM EST
+01:30 AM GMT / 02:30 AM CET / 09:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="29aa9ef7b1">
+    <title>NBA : Denver Nuggets vs Sacramento Kings - 09:00 PM EST - (01/23/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ff76c8efb6">
+    <title>NHL : Calgary Flames vs Buffalo Sabres - 09:00 PM EST - (01/23/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a5efda3333">
+    <title>NHL : Edmonton Oilers vs Vancouver Canucks - 09:00 PM EST - (01/23/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="853abf7471">
+    <title>Primera Division - Clausura : Cartagines vs San Carlos - 09:00 PM EST - (01/23/2025)</title>
+    <desc>06:00 PM PST / 07:00 PM MST / 09:00 PM EST
+02:00 AM GMT / 03:00 AM CET / 10:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5670380eaa">
+    <title>Newport Beach (SUA) : Tricia Mar vs Veronica Miroshnichenko - 09:30 PM EST - (01/23/2025)</title>
+    <desc>06:30 PM PST / 07:30 PM MST / 09:30 PM EST
+02:30 AM GMT / 03:30 AM CET / 10:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="287960a4e5">
+    <title>NBA : Golden State Warriors vs Chicago Bulls - 10:00 PM EST - (01/23/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="3319f209e2">
+    <title>NHL : Seattle Kraken vs Washington Capitals - 10:00 PM EST - (01/23/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="01985ca9db">
+    <title>NHL : Anaheim Ducks vs Pittsburgh Penguins - 10:00 PM EST - (01/23/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0e6a4e9dbe">
+    <title>NBA : Los Angeles Lakers vs Boston Celtics - 10:00 PM EST - (01/23/2025)</title>
+    <desc>07:00 PM PST / 08:00 PM MST / 10:00 PM EST
+03:00 AM GMT / 04:00 AM CET / 11:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c7654358f4">
+    <title>NHL : San Jose Sharks vs Nashville Predators - 10:30 PM EST - (01/23/2025)</title>
+    <desc>07:30 PM PST / 08:30 PM MST / 10:30 PM EST
+03:30 AM GMT / 04:30 AM CET / 11:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a297f90403">
+    <title>NBA : Los Angeles Clippers vs Washington - 10:30 PM EST - (01/23/2025)</title>
+    <desc>07:30 PM PST / 08:30 PM MST / 10:30 PM EST
+03:30 AM GMT / 04:30 AM CET / 11:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="fd632ef50f">
+    <title>Australian Open : Novak Djokovic vs Alexander Zverev - 10:45 PM EST - (01/23/2025)</title>
+    <desc>07:45 PM PST / 08:45 PM MST / 10:45 PM EST
+03:45 AM GMT / 04:45 AM CET / 11:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="229e02efbb">
+    <title>Super Smash : Canterbury Kings vs Wellington Firebirds - 11:55 PM EST - (01/23/2025)</title>
+    <desc>08:55 PM PST / 09:55 PM MST / 11:55 PM EST
+04:55 AM GMT / 05:55 AM CET / 12:55 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d2b1d88628">
+    <title>DubaI (EAU) : Izabela Heinzova vs Denise Hrdinkova - 12:00 AM EST - (01/24/2025)</title>
+    <desc>09:00 PM PST / 10:00 PM MST / 12:00 AM EST
+05:00 AM GMT / 06:00 AM CET / 01:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d3dfcdf0bb">
+    <title>DubaI (EAU) : Grete Gull vs Eva Busaad - 12:00 AM EST - (01/24/2025)</title>
+    <desc>09:00 PM PST / 10:00 PM MST / 12:00 AM EST
+05:00 AM GMT / 06:00 AM CET / 01:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="86e993581d">
+    <title>DubaI (EAU) : Xenia Bandurowska vs Mirjana Jovanovic - 12:00 AM EST - (01/24/2025)</title>
+    <desc>09:00 PM PST / 10:00 PM MST / 12:00 AM EST
+05:00 AM GMT / 06:00 AM CET / 01:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b6ec52c8ae">
+    <title>DubaI (EAU) : Ioana Teodora Sava vs Nao Phang Ziyi - 01:10 AM EST - (01/24/2025)</title>
+    <desc>10:10 PM PST / 11:10 PM MST / 01:10 AM EST
+06:10 AM GMT / 07:10 AM CET / 02:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="460b5f8554">
+    <title>NBL : New Zealand Breakers vs Brisbane Bullets - 01:30 AM EST - (01/24/2025)</title>
+    <desc>10:30 PM PST / 11:30 PM MST / 01:30 AM EST
+06:30 AM GMT / 07:30 AM CET / 02:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0ddda03a1d">
+    <title>DubaI (EAU) : Polina Bakhmutkina vs Evgeniya Burdina - 02:20 AM EST - (01/24/2025)</title>
+    <desc>11:20 PM PST / 12:20 AM MST / 02:20 AM EST
+07:20 AM GMT / 08:20 AM CET / 03:20 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2bcd3d2fd0">
+    <title>DubaI (EAU) : Noa Krznaric vs Laura Rahnel - 02:20 AM EST - (01/24/2025)</title>
+    <desc>11:20 PM PST / 12:20 AM MST / 02:20 AM EST
+07:20 AM GMT / 08:20 AM CET / 03:20 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="51711d8733">
+    <title>Olomouc (CEH) : Razvan Baiant vs Dominik Recek - 02:30 AM EST - (01/24/2025)</title>
+    <desc>11:30 PM PST / 12:30 AM MST / 02:30 AM EST
+07:30 AM GMT / 08:30 AM CET / 03:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="add3ad892d">
+    <title>Olomouc (CEH) : Adam Jurajda vs Karol Filar - 02:30 AM EST - (01/24/2025)</title>
+    <desc>11:30 PM PST / 12:30 AM MST / 02:30 AM EST
+07:30 AM GMT / 08:30 AM CET / 03:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0f2a9434f0">
+    <title>Blagoevgrad (BGR) : Viktoria Lackova vs Beatris Spasova - 03:00 AM EST - (01/24/2025)</title>
+    <desc>12:00 AM PST / 01:00 AM MST / 03:00 AM EST
+08:00 AM GMT / 09:00 AM CET / 04:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="06c6ec2a6f">
+    <title>Indonesia Masters (F) : Tomoka Miyazaki vs Ratchanok Intanon - 03:10 AM EST - (01/24/2025)</title>
+    <desc>12:10 AM PST / 01:10 AM MST / 03:10 AM EST
+08:10 AM GMT / 09:10 AM CET / 04:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="81e392305f">
+    <title>Australian Open : Jannik Sinner vs Ben Shelton - 03:30 AM EST - (01/24/2025)</title>
+    <desc>12:30 AM PST / 01:30 AM MST / 03:30 AM EST
+08:30 AM GMT / 09:30 AM CET / 04:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b10caa6381">
+    <title>NBL : Sydney Kings vs Adelaide 36ers - 03:30 AM EST - (01/24/2025)</title>
+    <desc>12:30 AM PST / 01:30 AM MST / 03:30 AM EST
+08:30 AM GMT / 09:30 AM CET / 04:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="675da37102">
+    <title>A-League : Melbourne Victory vs Sydney FC - 03:35 AM EST - (01/24/2025)</title>
+    <desc>12:35 AM PST / 01:35 AM MST / 03:35 AM EST
+08:35 AM GMT / 09:35 AM CET / 04:35 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="3dfb753a8c">
+    <title>Olomouc (CEH) : Jan Klimas vs Filip Paroulek - 03:45 AM EST - (01/24/2025)</title>
+    <desc>12:45 AM PST / 01:45 AM MST / 03:45 AM EST
+08:45 AM GMT / 09:45 AM CET / 04:45 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c7d5fe6d8d">
+    <title>Alvor (POR) : Tomas Curras Abasolo vs Christos Keisidis - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="07f0eedd4a">
+    <title>Alvor (POR) : Max Benaim vs Fred Gil - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0d175acb13">
+    <title>Cupa Commissioner : Phoenix Fuelmasters vs TNT Katropa - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="8e0653af5d">
+    <title>Alvor (POR) : Russell Henderson vs Jose Freitas - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="706e888151">
+    <title>Indonesia Masters : Kenta Nishimoto vs Jonatan Christie - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="16f9c3edfc">
+    <title>Alvor (POR) : Marshall Tutu vs Marcus Walters - 04:00 AM EST - (01/24/2025)</title>
+    <desc>01:00 AM PST / 02:00 AM MST / 04:00 AM EST
+09:00 AM GMT / 10:00 AM CET / 05:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d24635ed0d">
+    <title>Blagoevgrad (BGR) : Patricia Georgiana Goina vs Lidia Encheva - 04:10 AM EST - (01/24/2025)</title>
+    <desc>01:10 AM PST / 02:10 AM MST / 04:10 AM EST
+09:10 AM GMT / 10:10 AM CET / 05:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d6b11caa31">
+    <title>Indonesia Masters (F) : Yu Jin Sim vs Gregoria Mariska Tunjung - 04:50 AM EST - (01/24/2025)</title>
+    <desc>01:50 AM PST / 02:50 AM MST / 04:50 AM EST
+09:50 AM GMT / 10:50 AM CET / 05:50 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="452e1410d0">
+    <title>Indonesia Masters (F) : Thuy Linh Nguyen vs Shuo Yun Sung - 04:50 AM EST - (01/24/2025)</title>
+    <desc>01:50 AM PST / 02:50 AM MST / 04:50 AM EST
+09:50 AM GMT / 10:50 AM CET / 05:50 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="46cd112869">
+    <title>I-League : SC Bengaluru vs Sreenidi Deccan - 05:00 AM EST - (01/24/2025)</title>
+    <desc>02:00 AM PST / 03:00 AM MST / 05:00 AM EST
+10:00 AM GMT / 11:00 AM CET / 06:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="100c9a8a4c">
+    <title>Quimper (FRA) - Dublu : C.Denolly/K.Jacquet vs D.Stevenson/M.Willis - 05:00 AM EST - (01/24/2025)</title>
+    <desc>02:00 AM PST / 03:00 AM MST / 05:00 AM EST
+10:00 AM GMT / 11:00 AM CET / 06:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ee3eb6ab37">
+    <title>Olomouc (CEH) : Peter Goldsteiner vs David Schwarc - 05:00 AM EST - (01/24/2025)</title>
+    <desc>02:00 AM PST / 03:00 AM MST / 05:00 AM EST
+10:00 AM GMT / 11:00 AM CET / 06:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="8df0db8a57">
+    <title>Olomouc (CEH) : Stepan Baum vs Juliusz Bienkiewicz - 05:00 AM EST - (01/24/2025)</title>
+    <desc>02:00 AM PST / 03:00 AM MST / 05:00 AM EST
+10:00 AM GMT / 11:00 AM CET / 06:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e3e4c6adee">
+    <title>Alvor (POR) : Bas Bouwman vs Stefan Cooper - 05:10 AM EST - (01/24/2025)</title>
+    <desc>02:10 AM PST / 03:10 AM MST / 05:10 AM EST
+10:10 AM GMT / 11:10 AM CET / 06:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f37a9b5437">
+    <title>Alvor (POR) : Sean Hodkin vs Stijn Paardekooper - 05:10 AM EST - (01/24/2025)</title>
+    <desc>02:10 AM PST / 03:10 AM MST / 05:10 AM EST
+10:10 AM GMT / 11:10 AM CET / 06:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="69269eb81b">
+    <title>Alvor (POR) : Ander Tarrio Ponte vs Carlos Garcia Mondelo - 05:10 AM EST - (01/24/2025)</title>
+    <desc>02:10 AM PST / 03:10 AM MST / 05:10 AM EST
+10:10 AM GMT / 11:10 AM CET / 06:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="69e472b87b">
+    <title>Oeiras 3 (POR) : Liam Draxl vs Nicolas Mejia - 05:30 AM EST - (01/24/2025)</title>
+    <desc>02:30 AM PST / 03:30 AM MST / 05:30 AM EST
+10:30 AM GMT / 11:30 AM CET / 06:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b42f1aa390">
+    <title>Oeiras 3 (POR) : Alexis Galarneau vs Valentin Royer - 05:30 AM EST - (01/24/2025)</title>
+    <desc>02:30 AM PST / 03:30 AM MST / 05:30 AM EST
+10:30 AM GMT / 11:30 AM CET / 06:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="07f52ad44c">
+    <title>Blagoevgrad (BGR) : Abigail Amos vs Mirela Shkumbova - 05:30 AM EST - (01/24/2025)</title>
+    <desc>02:30 AM PST / 03:30 AM MST / 05:30 AM EST
+10:30 AM GMT / 11:30 AM CET / 06:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c11317780a">
+    <title>Blagoevgrad (BGR) : Jovana Grujic vs Stefana Lazar - 05:30 AM EST - (01/24/2025)</title>
+    <desc>02:30 AM PST / 03:30 AM MST / 05:30 AM EST
+10:30 AM GMT / 11:30 AM CET / 06:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5f3f9bdfe2">
+    <title>Indonesia Masters (F) : Putri Kusuma Wardani vs Wen Chi Hsu - 05:40 AM EST - (01/24/2025)</title>
+    <desc>02:40 AM PST / 03:40 AM MST / 05:40 AM EST
+10:40 AM GMT / 11:40 AM CET / 06:40 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5b5743a81c">
+    <title>Super League : Hapoel Afula vs Hapoel Galil Elion - 06:00 AM EST - (01/24/2025)</title>
+    <desc>03:00 AM PST / 04:00 AM MST / 06:00 AM EST
+11:00 AM GMT / 12:00 PM CET / 07:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="64fe2a8a8d">
+    <title>Quimper (FRA) - Dublu : R.Cash/J.Tracy vs R.Matos/M.Zormann - 06:00 AM EST - (01/24/2025)</title>
+    <desc>03:00 AM PST / 04:00 AM MST / 06:00 AM EST
+11:00 AM GMT / 12:00 PM CET / 07:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="adf30b4914">
+    <title>Quimper (FRA) - Dublu : C.Denolly/K.Jacquet vs R.Arneodo/M.Guinard - 06:00 AM EST - (01/24/2025)</title>
+    <desc>03:00 AM PST / 04:00 AM MST / 06:00 AM EST
+11:00 AM GMT / 12:00 PM CET / 07:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b0e568432a">
+    <title>Olomouc (CEH) : Josef Vagner vs Mikalai Haliak - 06:30 AM EST - (01/24/2025)</title>
+    <desc>03:30 AM PST / 04:30 AM MST / 06:30 AM EST
+11:30 AM GMT / 12:30 PM CET / 07:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0c0c8f6a86">
+    <title>Cupa Commissioner : San Miguel Beermen vs Converge Fiberxers - 06:30 AM EST - (01/24/2025)</title>
+    <desc>03:30 AM PST / 04:30 AM MST / 06:30 AM EST
+11:30 AM GMT / 12:30 PM CET / 07:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="734a1ef0d5">
+    <title>Indonesia Masters : Li Shifeng vs Tzu Wei Wang - 06:30 AM EST - (01/24/2025)</title>
+    <desc>03:30 AM PST / 04:30 AM MST / 06:30 AM EST
+11:30 AM GMT / 12:30 PM CET / 07:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0db85dc371">
+    <title>CBA : Fujian Sturgeons vs Beijing Ducks - 06:35 AM EST - (01/24/2025)</title>
+    <desc>03:35 AM PST / 04:35 AM MST / 06:35 AM EST
+11:35 AM GMT / 12:35 PM CET / 07:35 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="bfbcf50c07">
+    <title>CBA : Guangdong Southern Tigers vs Guangzhou Loong Lions - 06:35 AM EST - (01/24/2025)</title>
+    <desc>03:35 AM PST / 04:35 AM MST / 06:35 AM EST
+11:35 AM GMT / 12:35 PM CET / 07:35 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="749933954b">
+    <title>Oeiras 3 (POR) - Dublu : M.Middelkoop/D.Molchanov vs I.Liutarevich/M.Veldheer - 06:40 AM EST - (01/24/2025)</title>
+    <desc>03:40 AM PST / 04:40 AM MST / 06:40 AM EST
+11:40 AM GMT / 12:40 PM CET / 07:40 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="412d83b12a">
+    <title>Alvor (POR) : Marshall Tutu vs Jose Freitas - 07:00 AM EST - (01/24/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4dcbe3eca8">
+    <title>Alvor (POR) : Marcus Walters vs Guilherme Valdoleiros - 07:00 AM EST - (01/24/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6ff5dcd1f8">
+    <title>Alvor (POR) : Christos Keisidis vs Lars Wagenaar - 07:00 AM EST - (01/24/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e41ec389f4">
+    <title>Thai League 1 : Port FC vs Ratchaburi Mitr Phol - 07:00 AM EST - (01/24/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="61094ab99c">
+    <title>Quimper (FRA) - Dublu : T.Arribage/V.V.Cornea vs M.Mcdonald/D.Vega Hernandez - 07:10 AM EST - (01/24/2025)</title>
+    <desc>04:10 AM PST / 05:10 AM MST / 07:10 AM EST
+12:10 PM GMT / 01:10 PM CET / 08:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="337f605f8b">
+    <title>Super League : Kuching City vs Kedah Darul Aman - 07:15 AM EST - (01/24/2025)</title>
+    <desc>04:15 AM PST / 05:15 AM MST / 07:15 AM EST
+12:15 PM GMT / 01:15 PM CET / 08:15 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f854c7d2e5">
+    <title>Indonesia Masters : Vitidsarn Kunlavut vs Jason Jia Heng Teh - 07:20 AM EST - (01/24/2025)</title>
+    <desc>04:20 AM PST / 05:20 AM MST / 07:20 AM EST
+12:20 PM GMT / 01:20 PM CET / 08:20 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a204255d6c">
+    <title>Indonesia Masters : Yuqi Shi vs Hongyang Weng - 07:20 AM EST - (01/24/2025)</title>
+    <desc>04:20 AM PST / 05:20 AM MST / 07:20 AM EST
+12:20 PM GMT / 01:20 PM CET / 08:20 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e6cd13ec0a">
+    <title>Oeiras 3 (POR) - Dublu : I.Cervantes/L.D.Martinez vs L.Draxl/C.Harper - 07:50 AM EST - (01/24/2025)</title>
+    <desc>04:50 AM PST / 05:50 AM MST / 07:50 AM EST
+12:50 PM GMT / 01:50 PM CET / 08:50 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ccfb005bed">
+    <title>Oeiras 3 (POR) : Nikoloz Basilashvili vs Alexander Blockx - 07:55 AM EST - (01/24/2025)</title>
+    <desc>04:55 AM PST / 05:55 AM MST / 07:55 AM EST
+12:55 PM GMT / 01:55 PM CET / 08:55 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b4107a3bf1">
+    <title>Amicale intercluburi : Vancouver Whitecaps vs Rakow Czestochowa - 08:00 AM EST - (01/24/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST
+01:00 PM GMT / 02:00 PM CET / 09:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b5613ab72d">
+    <title>Quimper (FRA) : Vitaliy Sachko vs Matteo Martineau - 08:00 AM EST - (01/24/2025)</title>
+    <desc>05:00 AM PST / 06:00 AM MST / 08:00 AM EST
+01:00 PM GMT / 02:00 PM CET / 09:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="80f11ed570">
+    <title>Alvor (POR) : Stijn Paardekooper vs David Redondo Pereira - 08:10 AM EST - (01/24/2025)</title>
+    <desc>05:10 AM PST / 06:10 AM MST / 08:10 AM EST
+01:10 PM GMT / 02:10 PM CET / 09:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d9545b2e96">
+    <title>Alvor (POR) : Tomas Luis vs Stefan Cooper - 08:10 AM EST - (01/24/2025)</title>
+    <desc>05:10 AM PST / 06:10 AM MST / 08:10 AM EST
+01:10 PM GMT / 02:10 PM CET / 09:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="acfc661071">
+    <title>I-League : Gokulam Kerala vs Inter Kashi - 08:30 AM EST - (01/24/2025)</title>
+    <desc>05:30 AM PST / 06:30 AM MST / 08:30 AM EST
+01:30 PM GMT / 02:30 PM CET / 09:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="36c8a7cef5">
+    <title>Super League : East Bengal vs Kerala Blasters - 09:00 AM EST - (01/24/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c56477c8c0">
+    <title>TBL : Harem Spor vs Mamak Yeni - 09:00 AM EST - (01/24/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f8cf03267a">
+    <title>Oeiras 3 (POR) : Beibit Zhukayev vs Mark Lajal - 09:05 AM EST - (01/24/2025)</title>
+    <desc>06:05 AM PST / 07:05 AM MST / 09:05 AM EST
+02:05 PM GMT / 03:05 PM CET / 10:05 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="98148231f9">
+    <title>Quimper (FRA) : Sascha Wayenburg vs Laslo Djere - 09:10 AM EST - (01/24/2025)</title>
+    <desc>06:10 AM PST / 07:10 AM MST / 09:10 AM EST
+02:10 PM GMT / 03:10 PM CET / 10:10 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="94368aa31f">
+    <title>Turul invinsilor - Gr.2 : Japonia vs Bahrain - 09:30 AM EST - (01/24/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ca488179d5">
+    <title>Runda Principala - Gr.4 : Argentina vs Capul Verde - 09:30 AM EST - (01/24/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="27135f23d8">
+    <title>Runda Principala - Gr.3 : Spania vs Portugalia - 09:30 AM EST - (01/24/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4ffc55cd12">
+    <title>SuperLiga : Gloria Buzau vs Unirea Slobozia - 10:00 AM EST - (01/24/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="deac27453c">
+    <title>T20 League : Sunrisers Eastern Cape vs Joburg Super Kings - 10:30 AM EST - (01/24/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e88e40bf13">
+    <title>Vero Beach (SUA) - Dublu : J.Belgraver/J.Gimbrere vs A.Bolsova/V.Strakhova - 11:00 AM EST - (01/24/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7bf257781d">
+    <title>Quimper (FRA) - Dublu : S.Doumbia/F.Reboul vs U.Blanchet/M.Martineau - 11:00 AM EST - (01/24/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ae77a69abe">
+    <title>Vero Beach (SUA) - Dublu : A.Zamarripa/M.Zamarripa vs H.Chang/S.Vickery - 11:00 AM EST - (01/24/2025)</title>
+    <desc>08:00 AM PST / 09:00 AM MST / 11:00 AM EST
+04:00 PM GMT / 05:00 PM CET / 12:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d253c96445">
+    <title>Extraliga : Spisska Nova Ves vs Kosice - 11:30 AM EST - (01/24/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="3f1deb75be">
+    <title>Extraliga : Litvinov vs Ocelari Trinec - 11:30 AM EST - (01/24/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="002dbc8e1f">
+    <title>Extraliga : Plzen vs Olomouc - 11:30 AM EST - (01/24/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c99c031597">
+    <title>Extraliga : Vlci Zilina vs Nove Zamky - 11:30 AM EST - (01/24/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="de7497f9ee">
+    <title>Korisliga - Turul invinsilor : Korikobrat vs Pyrinto Tampere - 11:30 AM EST - (01/24/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="581015a6c0">
+    <title>Quimper (FRA) : Titouan Droguet vs Pierre Hugues Herbert - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c645966119">
+    <title>Runda Principala - Gr.3 : Suedia vs Brazilia - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="972d49d8bf">
+    <title>Extraliga : Mountfield vs Vítkovice - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="de2cd45bac">
+    <title>Extraliga : Bili Tygri Liberec vs Ceske Budejovice - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4b45ab932b">
+    <title>PHL : Unia Oswiecim vs GKS Katowice - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0aa9d73c38">
+    <title>Extraliga : Karlovy Vary vs Dynamo Pardubice - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c75605116b">
+    <title>PHL : GKS Tychy vs GKS Jastrzebie - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5b5be67998">
+    <title>PHL : Sanok vs Zagłębie Sosnowiec - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="84b6c83d1f">
+    <title>Extraliga : Liptovsky Mikulas vs Dukla Michalovce - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7d4daa325e">
+    <title>HNL : Osijek vs Sibenik - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4be2c48798">
+    <title>Extraliga : Zvolen vs Banska Bystrica - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="546e5a3375">
+    <title>Extraliga : Poprad vs Dukla Trencin - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c95c40d712">
+    <title>Extraliga : Rytiri Kladno vs Mlada Boleslav - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="61303735be">
+    <title>Liga Estonia/Letonia : Ventspils vs TTU Korvpalliklubi - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c14f2d3353">
+    <title>Extraliga : Nitra vs Slovan Bratislava - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="450a90c5b9">
+    <title>Extraliga : Kometa Brno vs Sparta Praga - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="39c6b68fca">
+    <title>Turul invinsilor - Gr.2 : SUA vs Cuba - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c211088d76">
+    <title>Runda Principala - Gr.4 : Egipt vs Slovenia - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="46b029caa6">
+    <title>Vero Beach (SUA) - Dublu : L.Karatancheva/L.Zaar vs K.D.La Garza Valdez/E.Murphy - 12:00 PM EST - (01/24/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="925906ede0">
+    <title>Bundesliga 2 : Magdeburg vs Eintracht Braunschweig - 12:30 PM EST - (01/24/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9bd4052014">
+    <title>Bundesliga 2 : Greuther Furth vs Kaiserslautern - 12:30 PM EST - (01/24/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1562818f4e">
+    <title>Division A : Apoel Nicosia vs AEL Limassol - 12:30 PM EST - (01/24/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7fcb70c117">
+    <title>Metal Ligaen : Odense Bulldogs vs Sonderjyske - 01:00 PM EST - (01/24/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7d60c22427">
+    <title>NBL - Vest : Jelgava vs Kandava/anzage - 01:00 PM EST - (01/24/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="815730ca67">
+    <title>Liga 2 : Academico Viseu vs Feirense - 01:00 PM EST - (01/24/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7f8c24848f">
+    <title>Indiile de Vest (F) vs. Bangladesh (F) : Indiile de Vest (F) vs Bangladesh (F) - 01:00 PM EST - (01/24/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="cde2eab57d">
+    <title>SuperLiga : Dinamo Bucuresti vs U Cluj - 01:00 PM EST - (01/24/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b6d50e1d91">
+    <title>ICE League : TWK Innsbruck vs Pustertal Wolfe - 01:15 PM EST - (01/24/2025)</title>
+    <desc>10:15 AM PST / 11:15 AM MST / 01:15 PM EST
+06:15 PM GMT / 07:15 PM CET / 02:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5dc2ee5b6c">
+    <title>ICE League : EC VSV vs Vienna Capitals - 01:15 PM EST - (01/24/2025)</title>
+    <desc>10:15 AM PST / 11:15 AM MST / 01:15 PM EST
+06:15 PM GMT / 07:15 PM CET / 02:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1470dd6d69">
+    <title>ICE League : RB Salzburg vs KAC Klagenfurt - 01:15 PM EST - (01/24/2025)</title>
+    <desc>10:15 AM PST / 11:15 AM MST / 01:15 PM EST
+06:15 PM GMT / 07:15 PM CET / 02:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a04ec3973e">
+    <title>Challenge League : Nyonnais vs Aarau - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f35b9691d6">
+    <title>DEL : Augsburger Panther vs Schwenninger Wild Wings - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1c838e9e71">
+    <title>DEL : Lowen Frankfurt vs Nurnberg Ice Tigers - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="715f42b9bd">
+    <title>ICE League : Pioneers Vorarlberg vs Black Wings Linz - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="24f1c8ffbb">
+    <title>DEL : Dusseldorfer EG vs Kolner Haie - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="afd6d59461">
+    <title>Metal Ligaen : Rodovre Mighty Bulls vs Aalborg Pirates - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c818f98ee1">
+    <title>DEL : Straubing Tigers vs Ingolstadt - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5d759af82d">
+    <title>DEL : Adler Mannheim vs Grizzlys Wolfsburg - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="8c0c0dc598">
+    <title>Metal Ligaen : Frederikshavn White Hawks vs Rungsted Seier Capital - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6cf946e550">
+    <title>Metal Ligaen : Herning Blue Fox vs Herlev Eagles - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0e1903b550">
+    <title>Challenge League : Xamax vs Lausanne Ouchy - 01:30 PM EST - (01/24/2025)</title>
+    <desc>10:30 AM PST / 11:30 AM MST / 01:30 PM EST
+06:30 PM GMT / 07:30 PM CET / 02:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d056b0c824">
+    <title>ICE League : Asiago vs Fehervar AV19 - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="a1c46aacde">
+    <title>ICE League : Bolzano Foxes vs Graz 99ers - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9aeb7d0a57">
+    <title>NLA : Kloten vs Ajoie - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6e98b1619a">
+    <title>NLA : EV Zug vs Ambri Piotta - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6978a6123e">
+    <title>NLA : ZSC Lions vs Biel Bienne - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7f29a6bbc3">
+    <title>NLA : Fribourg Gotteron vs SC Langenau Tigers - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f04ba40d8e">
+    <title>NLA : Lausanne vs Schlittschuh Club Bern - 01:45 PM EST - (01/24/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f99d5c5faa">
+    <title>LNB Pro B : ALM Evreux vs UB Chartres - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4083d51c98">
+    <title>Eerste Divisie : FC Eindhoven vs Cambuur - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="cece906e1d">
+    <title>Eerste Divisie : Den Bosch vs TOP Oss - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9a5fe68bc9">
+    <title>Challenger Pro League : RWDM vs Genk U23 - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4a5272e9f7">
+    <title>Eerste Divisie : De Graafschap vs Emmen - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="de93903427">
+    <title>Euroliga : Alba Berlin vs Bayern Munchen - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1f141ecdb8">
+    <title>Euroliga : ASVEL vs Barcelona - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="69f4f42054">
+    <title>LNB Pro B : Denain Voltaire vs Fos Provence - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="bb51aa82e8">
+    <title>LNB Pro A : Elan Chalon vs Limoges - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0377a56f83">
+    <title>Challenger Pro League : Lokeren Temse vs K. Lierse S.K. - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="cec96da329">
+    <title>LNB Pro B : Roanne vs Antibes Sharks - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="53e6f50f4f">
+    <title>Eerste Divisie : Volendam vs Maastricht - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4fe4413964">
+    <title>Eredivisie : Heracles Almelo vs Utrecht - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="05fb626367">
+    <title>Eerste Divisie : Roda Kerkrade vs Jong Utrecht - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f5629a687d">
+    <title>LNB Pro B : Caen Calvados vs EB Pau Orthez - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="af8d181eb4">
+    <title>Urvalsdeild : Thor Thorl vs IR Reykjavik - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="46834336da">
+    <title>LNB Pro B : Hermine Nantes vs Boulazac - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="db01287a51">
+    <title>Eerste Divisie : Vitesse Arnhem vs Dordrecht - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e65daf984f">
+    <title>LNB Pro B : Aix Maurienne Savoie vs SPO Rouen - 02:00 PM EST - (01/24/2025)</title>
+    <desc>11:00 AM PST / 12:00 PM MST / 02:00 PM EST
+07:00 PM GMT / 08:00 PM CET / 03:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="62dad0748a">
+    <title>Challenge League : Thun vs Vaduz - 02:15 PM EST - (01/24/2025)</title>
+    <desc>11:15 AM PST / 12:15 PM MST / 02:15 PM EST
+07:15 PM GMT / 08:15 PM CET / 03:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7a692ad7e0">
+    <title>Euroliga : Olympiacos vs Fenerbahce - 02:15 PM EST - (01/24/2025)</title>
+    <desc>11:15 AM PST / 12:15 PM MST / 02:15 PM EST
+07:15 PM GMT / 08:15 PM CET / 03:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7261c9c13d">
+    <title>Challenge League : Etoile Carouge vs Wil - 02:15 PM EST - (01/24/2025)</title>
+    <desc>11:15 AM PST / 12:15 PM MST / 02:15 PM EST
+07:15 PM GMT / 08:15 PM CET / 03:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e96d086fdf">
+    <title>Urvalsdeild : Keflavik vs Valur Reykjavik - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f414830dd9">
+    <title>Elite League : Glasgow Clan vs Fife Flyers - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="afd4a6edbd">
+    <title>SLB : Sheffield Sharks vs Cheshire Phoenix - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9129eb8006">
+    <title>Runda Principala - Gr.4 : Croatia vs Islanda - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="42cc55ad3a">
+    <title>Elite League : Nottingham Panthers vs Guildford Flames - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4e676b4e62">
+    <title>Bundesliga : Wolfsburg vs Holstein Kiel - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="69a3ebf76e">
+    <title>LaLiga 2 : Elche vs Eibar - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4b3108ff4f">
+    <title>LNB Pro B : Vichy Clermont vs ASA - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d4ae1941e3">
+    <title>LNB Pro B : Saint Chamond vs Poitiers 86 - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9ca3109806">
+    <title>Serie B : Spezia vs Sassuolo - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c758cb15dc">
+    <title>LNB Pro B : Hyeres Toulon vs Orleans Loiret - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b07d9cfe1f">
+    <title>Runda Principala - Gr.3 : Chile vs Norvegia - 02:30 PM EST - (01/24/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="de079d3513">
+    <title>Pro League : Sint vs Truiden - Antwerp - 02:45 PM EST - (01/24/2025)</title>
+    <desc>11:45 AM PST / 12:45 PM MST / 02:45 PM EST
+07:45 PM GMT / 08:45 PM CET / 03:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b9fd4f6bc8">
+    <title>LaLiga : Las Palmas vs Osasuna - 03:00 PM EST - (01/24/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9755527920">
+    <title>Primera Division - Apertura : Barracas Central vs Racing Club - 03:00 PM EST - (01/24/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f3a79f8343">
+    <title>Championship : Sheffield United vs Hull City - 03:00 PM EST - (01/24/2025)</title>
+    <desc>12:00 PM PST / 01:00 PM MST / 03:00 PM EST
+08:00 PM GMT / 09:00 PM CET / 04:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6a1d037cdc">
+    <title>Primeira Liga : Arouca vs Moreirense - 03:15 PM EST - (01/24/2025)</title>
+    <desc>12:15 PM PST / 01:15 PM MST / 03:15 PM EST
+08:15 PM GMT / 09:15 PM CET / 04:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2eb499bfac">
+    <title>Primera Division - Apertura : Sportivo Trinidense vs Sportivo Ameliano - 04:00 PM EST - (01/24/2025)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2e0974d25c">
+    <title>Primera Division - Apertura : Metropolitanos vs Academia Puerto Cabello - 05:00 PM EST - (01/24/2025)</title>
+    <desc>02:00 PM PST / 03:00 PM MST / 05:00 PM EST
+10:00 PM GMT / 11:00 PM CET / 06:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1c328eb9f1">
+    <title>Primera Division - Apertura : CA Independiente vs Sarmiento Junin - 05:15 PM EST - (01/24/2025)</title>
+    <desc>02:15 PM PST / 03:15 PM MST / 05:15 PM EST
+10:15 PM GMT / 11:15 PM CET / 06:15 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2c66c6692d">
+    <title>Amicale intercluburi : Montevideo City Torque vs Independiente del Valle - 06:00 PM EST - (01/24/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b7015bdd64">
+    <title>NBA : Philadelphia vs Cleveland Cavaliers - 07:00 PM EST - (01/24/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="ebe6ba2fcf">
+    <title>NBA : Charlotte Hornets vs Portland Trail Blazers - 07:00 PM EST - (01/24/2025)</title>
+    <desc>04:00 PM PST / 05:00 PM MST / 07:00 PM EST
+12:00 AM GMT / 01:00 AM CET / 08:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="88d7c38159">
+    <title>Primera Division - Apertura : Monagas vs Deportivo La Guaira - 07:30 PM EST - (01/24/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="8e73934dd8">
+    <title>NHL : New York Islanders vs Philadelphia Flyers - 07:30 PM EST - (01/24/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="401ea19f36">
+    <title>NHL : Dallas Stars vs Vegas Golden Knights - 07:30 PM EST - (01/24/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="82c2a54bb1">
+    <title>NHL : Chicago Blackhawks vs Tampa Bay Lightning - 08:00 PM EST - (01/24/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2c79eb7a4e">
+    <title>NBA : Memphis Grizzlies vs New Orleans Pelicans - 08:00 PM EST - (01/24/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="0164ff4ff1">
+    <title>NHL : Winnipeg Jets vs Utah - 08:00 PM EST - (01/24/2025)</title>
+    <desc>05:00 PM PST / 06:00 PM MST / 08:00 PM EST
+01:00 AM GMT / 02:00 AM CET / 09:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6306e9e240">
+    <title>TBSL : Darussafaka vs Petkim Spor - 05:30 AM EST - (01/25/2025)</title>
+    <desc>02:30 AM PST / 03:30 AM MST / 05:30 AM EST
+10:30 AM GMT / 11:30 AM CET / 06:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4d6197628a">
+    <title>Liga 2 : Felgueiras 1932 vs Alverca - 06:00 AM EST - (01/25/2025)</title>
+    <desc>03:00 AM PST / 04:00 AM MST / 06:00 AM EST
+11:00 AM GMT / 12:00 PM CET / 07:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="cc57886241">
+    <title>Bundesliga 2 : FC Koln vs Elversberg - 07:00 AM EST - (01/25/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="056e5558ee">
+    <title>Bundesliga 2 : Karlsruher vs Fortuna Dusseldorf - 07:00 AM EST - (01/25/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="94db6d3599">
+    <title>Bundesliga 2 : Schalke vs Nurnberg - 07:00 AM EST - (01/25/2025)</title>
+    <desc>04:00 AM PST / 05:00 AM MST / 07:00 AM EST
+12:00 PM GMT / 01:00 PM CET / 08:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="994d59ece1">
+    <title>TBSL : Karsiyaka vs Bahcesehir Koleji - 07:30 AM EST - (01/25/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST
+12:30 PM GMT / 01:30 PM CET / 08:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="108fa556a0">
+    <title>SuperLiga : Poli Iasi vs Hermannstadt - 07:30 AM EST - (01/25/2025)</title>
+    <desc>04:30 AM PST / 05:30 AM MST / 07:30 AM EST
+12:30 PM GMT / 01:30 PM CET / 08:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5edc3f03b9">
+    <title>Super League : FC Goa vs Chennaiyin - 09:00 AM EST - (01/25/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6723bc96d9">
+    <title>Liga 3 - Gr.B : SC Lusitania vs Sporting Lisabona B - 09:00 AM EST - (01/25/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="4a934d08e9">
+    <title>HNL : Gorica vs Varazdin - 09:00 AM EST - (01/25/2025)</title>
+    <desc>06:00 AM PST / 07:00 AM MST / 09:00 AM EST
+02:00 PM GMT / 03:00 PM CET / 10:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="22646f8f61">
+    <title>Bundesliga : Borussia Dortmund vs Werder Bremen - 09:30 AM EST - (01/25/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b2c9019ca3">
+    <title>Bundesliga : Mainz vs Stuttgart - 09:30 AM EST - (01/25/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e23ccc9058">
+    <title>Bundesliga : Freiburg vs Bayern Munchen - 09:30 AM EST - (01/25/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c8dda60d09">
+    <title>Bundesliga : RB Leipzig vs Bayer Leverkusen - 09:30 AM EST - (01/25/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="6dafe70d55">
+    <title>Bundesliga : Augsburg vs Heidenheim - 09:30 AM EST - (01/25/2025)</title>
+    <desc>06:30 AM PST / 07:30 AM MST / 09:30 AM EST
+02:30 PM GMT / 03:30 PM CET / 10:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9ae9a8f009">
+    <title>Liga 3 - Gr.B : SC 1º Dezembro vs Caldas SC - 10:00 AM EST - (01/25/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="9044f0acde">
+    <title>Liga 3 - Gr.B : Os Belenenses vs Academica Coimbra - 10:00 AM EST - (01/25/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="757d760b2b">
+    <title>Liga 3 - Gr.B : Atletico CP vs Oliveira Hospital - 10:00 AM EST - (01/25/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="cb75ba6e66">
+    <title>Liga 3 - Gr.B : Covilha vs UD Santarem - 10:00 AM EST - (01/25/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f9e15c9fef">
+    <title>TBSL : Bursaspor vs Manisa - 10:00 AM EST - (01/25/2025)</title>
+    <desc>07:00 AM PST / 08:00 AM MST / 10:00 AM EST
+03:00 PM GMT / 04:00 PM CET / 11:00 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="13f66652d1">
+    <title>Primeira Liga : Farense vs Rio Ave - 10:30 AM EST - (01/25/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d63b77c57e">
+    <title>Liga 2 : Maritimo vs Pacos Ferreira - 10:30 AM EST - (01/25/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="25a05b0230">
+    <title>Primeira Liga : Famalicao vs Estrela Amadora - 10:30 AM EST - (01/25/2025)</title>
+    <desc>07:30 AM PST / 08:30 AM MST / 10:30 AM EST
+03:30 PM GMT / 04:30 PM CET / 11:30 PM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="202a270fd6">
+    <title>HNL : Dinamo Zagreb vs Istra 1961 - 11:30 AM EST - (01/25/2025)</title>
+    <desc>08:30 AM PST / 09:30 AM MST / 11:30 AM EST
+04:30 PM GMT / 05:30 PM CET / 12:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="47326a4a41">
+    <title>Super League : Yverdon vs Servette - 12:00 PM EST - (01/25/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="25a005e280">
+    <title>Super League : Grasshopper vs Young Boys - 12:00 PM EST - (01/25/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="385978ca3a">
+    <title>LNB Pro A : Gravelines Dunkerque vs Stade Rochelais - 12:00 PM EST - (01/25/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c02a3d127a">
+    <title>LNB Pro A : Le Portel vs Saint Quentin - 12:00 PM EST - (01/25/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="32374ae59e">
+    <title>Challenge League : Bellinzona vs Schaffhausen - 12:00 PM EST - (01/25/2025)</title>
+    <desc>09:00 AM PST / 10:00 AM MST / 12:00 PM EST
+05:00 PM GMT / 06:00 PM CET / 01:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="fb8192d271">
+    <title>TBSL : Besiktas vs Tofas - 12:30 PM EST - (01/25/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f251c9c27f">
+    <title>Bundesliga : Borussia Monchengladbach vs Bochum - 12:30 PM EST - (01/25/2025)</title>
+    <desc>09:30 AM PST / 10:30 AM MST / 12:30 PM EST
+05:30 PM GMT / 06:30 PM CET / 01:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="241cf79dd2">
+    <title>Primeira Liga : Casa Pia vs Benfica - 01:00 PM EST - (01/25/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="21a2c6a83b">
+    <title>SuperLiga : Rapid Bucuresti vs Universitatea Craiova - 01:00 PM EST - (01/25/2025)</title>
+    <desc>10:00 AM PST / 11:00 AM MST / 01:00 PM EST
+06:00 PM GMT / 07:00 PM CET / 02:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="2a198bf0ee">
+    <title>NLA : Ambri Piotta vs Lausanne - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d6e90760d3">
+    <title>NLA : Schlittschuh Club Bern vs Rapperswil Jona Lakers - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c25603277e">
+    <title>NLA : SC Langenau Tigers vs Davos - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="b201ce0ddd">
+    <title>NLA : Ajoie vs ZSC Lions - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="20f7ad6e8b">
+    <title>NLA : Biel Bienne vs Fribourg Gotteron - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5b5d7f60cf">
+    <title>NLA : Geneve Servette vs EV Zug - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="96b9f68583">
+    <title>NLA : Lugano vs Kloten - 01:45 PM EST - (01/25/2025)</title>
+    <desc>10:45 AM PST / 11:45 AM MST / 01:45 PM EST
+06:45 PM GMT / 07:45 PM CET / 02:45 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="5346564892">
+    <title>LNB Pro A : Nancy vs Dijon - 02:30 PM EST - (01/25/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f6a653e2a8">
+    <title>Bundesliga 2 : Hertha Berlin vs Hamburger - 02:30 PM EST - (01/25/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="1975e6753a">
+    <title>Super League : Winterthur vs Lugano - 02:30 PM EST - (01/25/2025)</title>
+    <desc>11:30 AM PST / 12:30 PM MST / 02:30 PM EST
+07:30 PM GMT / 08:30 PM CET / 03:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="e887b9cb61">
+    <title>Primeira Liga : Sporting Lisabona vs CD Nacional - 03:30 PM EST - (01/25/2025)</title>
+    <desc>12:30 PM PST / 01:30 PM MST / 03:30 PM EST
+08:30 PM GMT / 09:30 PM CET / 04:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="7fe554101c">
+    <title>Primera Division - Apertura : Estudiantes de Merida vs Carabobo - 04:00 PM EST - (01/25/2025)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d2ecd8f915">
+    <title>Primera Division - Apertura : Universidad Central Venezuela vs Academia Anzoategui FC - 04:00 PM EST - (01/25/2025)</title>
+    <desc>01:00 PM PST / 02:00 PM MST / 04:00 PM EST
+09:00 PM GMT / 10:00 PM CET / 05:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="d3cfe50380">
+    <title>Liga MX - Clausura : Cruz Azul vs Puebla - 06:00 PM EST - (01/25/2025)</title>
+    <desc>03:00 PM PST / 04:00 PM MST / 06:00 PM EST
+11:00 PM GMT / 12:00 AM CET / 07:00 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="c3926629a8">
+    <title>NBA : Atlanta Hawks vs Toronto Raptors - 07:30 PM EST - (01/25/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="f8c9aa4dd2">
+    <title>NBA : Cleveland Cavaliers vs Houston Rockets - 07:30 PM EST - (01/25/2025)</title>
+    <desc>04:30 PM PST / 05:30 PM MST / 07:30 PM EST
+12:30 AM GMT / 01:30 AM CET / 08:30 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="22591b7e8e">
+    <title>Liga MX - Clausura : Santos Laguna vs Club America - 08:05 PM EST - (01/25/2025)</title>
+    <desc>05:05 PM PST / 06:05 PM MST / 08:05 PM EST
+01:05 AM GMT / 02:05 AM CET / 09:05 AM CST</desc>
+  </programme>
+  <programme start="20250124031501 +0000" stop="20250126031501 +0000" channel="447409e108">
+    <title>Liga MX - Clausura : Monterrey vs Pachuca - 10:10 PM EST - (01/25/2025)</title>
+    <desc>07:10 PM PST / 08:10 PM MST / 10:10 PM EST
+03:10 AM GMT / 04:10 AM CET / 11:10 AM CST</desc>
+  </programme>
+</tv>
